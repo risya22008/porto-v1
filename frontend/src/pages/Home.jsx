@@ -31,21 +31,21 @@ export default function ModernPortfolio() {
   const projects = [
     {
       title: 'Jurnal Bumil',
-      description: 'Financial management mobile application',
+      description: 'is a web application that helps pregnant women monitor their pregnancy health independently and in coordination with midwives or medical professionals. Its main features include daily complaint tracking, check-up schedules, progress charts, pregnancy education, and online consultations with midwives. The application aims to enhance awareness, comfort, and safety for mothers throughout their pregnancy.',
       image: '/jurnalBumil.jpeg',
       color: 'from-green-400 to-green-600',
       link: 'https://github.com/risya22008/JurnalBumil'
     },
     {
       title: 'Tanya Berita',
-      description: 'Automotive service booking platform',
+      description: 'is an AI-powered web application that delivers the latest news by category and features an intelligent chatbot. Users can browse news based on their interests (such as technology, economy, or sports) and ask questions related to the news content directly to the chatbot. The application is built with React for the frontend and TypeScript for the backend, integrated with a news API and AI model to provide context-based answers. Its goal is to offer an interactive and informative news-reading experience.',
       image: '/tanyaBerita.jpeg',
       color: 'from-blue-400 to-blue-600',
       link: 'https://github.com/risya22008/TanyaBerita'
     },
     {
       title: 'Web Pencarian Aksara Jawa',
-      description: 'Professional networking application',
+      description: 'is a Semantic Web-based application that allows users to search for Javanese vocabulary along with its script form, Latin transliteration, meaning, and example sentences. This application utilizes RDF and OWL technologies to build a structured vocabulary ontology, enabling semantic search and relationships between words. Its main goal is to help preserve local languages through an intelligent and structured digital system.',
       image: '/aksaraJawa.jpeg',
       color: 'from-purple-400 to-purple-600',
       link: 'https://github.com/risya22008/Web-Pencarian-Aksara-Jawa'
